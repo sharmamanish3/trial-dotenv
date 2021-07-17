@@ -1,0 +1,24 @@
+{
+  "name": "trial-dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmamanish3/trial-dotenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmamanish3/trial-dotenv/issues"
+  },
+  "homepage": "https://github.com/sharmamanish3/trial-dotenv#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
